@@ -2,6 +2,10 @@
 {
     margin: 0;
 }
+img
+{
+    max-width: 100%;
+}
 .backgroundp
 {
     width: 100px;
@@ -260,6 +264,21 @@ header
         flex-direction: column;
     }
     .section2
+    {
+        flex-direction: column;
+    }
+    .backgrounddiv1
+    {
+        flex-direction: column;
+        align-items: center;
+    }
+    .bigp4
+    {
+       width: 100%;
+        font-size: 30px;
+        text-align: start;
+    }
+    .div3
     {
         flex-direction: column;
     }
