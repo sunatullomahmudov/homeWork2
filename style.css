@@ -45,3 +45,9 @@ header
     font-size: 60px;
     width: 600px;
 }
+.div2
+{
+    display: flex;
+    gap: 30px;
+    margin-top: 50px;
+}
